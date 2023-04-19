@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Build, Host, and Design Web Application](https://github.com/kleeloy/Azure-Cloud-Web-Application-)
   - [Secure Web Application With SSL Certificates](https://github.com/kleeloy/Azure-SSL-Certificates)
-  - [Network Security Groups (NSGs)]
+  - [Network Security Groups (NSGs)](https://github.com/kleeloy/Azure-NSG-)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>

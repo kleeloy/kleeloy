@@ -6,6 +6,10 @@
   - [Build, Host, and Design Web Application](https://github.com/kleeloy/Azure-Cloud-Web-Application-)
   - [Secure Web Application With SSL Certificates](https://github.com/kleeloy/Azure-SSL-Certificates)
   - [Network Security Groups (NSGs)](https://github.com/kleeloy/Azure-NSG-)
+- <b>Ethical Hacking and Penetration</b>
+  - [Web Application Vulnerabilities]
+  - [Linux Servers Vulnerabilities]
+  - [Windows Servers Vulnerabilities]
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>

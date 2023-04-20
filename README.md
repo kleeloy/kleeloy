@@ -7,9 +7,9 @@
   - [Secure Web Application With SSL Certificates](https://github.com/kleeloy/Azure-SSL-Certificates)
   - [Network Security Groups (NSGs)](https://github.com/kleeloy/Azure-NSG-)
 - <b>Ethical Hacking and Penetration</b>
-  - [Web Application Vulnerabilities]
-  - [Linux Servers Vulnerabilities]
-  - [Windows Servers Vulnerabilities]
+  - [Web Application Vulnerabilities](https://github.com/kleeloy/Pen-Testing-Web-Application-Vulnerabilities)
+  - [Linux Servers Vulnerabilities](https://github.com/kleeloy/Pen-Testing-Linux-Server-Vulnerabilities-)
+  - [Windows Servers Vulnerabilities](https://github.com/kleeloy/Pen-Testing-Windows-Server-Vulnerabilities)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>

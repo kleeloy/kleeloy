@@ -8,9 +8,6 @@
 
 - <b>Ethical Hacking and Penetration</b>
   - [Web Application Vulnerabilities](https://github.com/kleeloy/Pen-Testing-Web-Application-Vulnerabilities)
-  - [Linux Servers Vulnerabilities](https://github.com/kleeloy/Pen-Testing-Linux-Server-Vulnerabilities-)
-  - [Windows Servers Vulnerabilities](https://github.com/kleeloy/Pen-Testing-Windows-Server-Vulnerabilities)
-
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
